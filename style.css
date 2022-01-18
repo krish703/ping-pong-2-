@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+
+}
+
+h1{
+    line-height: 3px;
+}
+
+#copyright_footer{
+    line-height:3px; 
+    bottom:100%;
+    
+    
+}
+
+canvas{
+    border:5px solid rgb(160, 95, 98);
+    border-radius: 20px;
+    margin-top: 140px;
+    box-shadow: 5px 5px 5px rgb(131, 240, 104);
+}
